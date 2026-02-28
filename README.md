@@ -1,6 +1,12 @@
-# LibraMind
+# Your Library
 
-**An AI-powered conversational knowledge platform that allows users to interact with books and documents through natural language and voice.**
+**Convert your books into interactive AI conversations. Listen, learn, and discuss your favorite reads.**
+
+## How It Works
+
+1. **Upload PDF**: Add your book file
+2. **AI Processing**: We analyze the content
+3. **Voice Chat**: Discuss with AI
 
 Libramind transforms static content—such as books, research papers, and manuals—into dynamic, conversational knowledge systems. Instead of manually reading or searching through long PDFs, users upload documents and engage with them through real-time conversations. The system retrieves relevant knowledge from the uploaded material and generates grounded responses, acting as a personal AI research and learning assistant built around the user's library.
 
